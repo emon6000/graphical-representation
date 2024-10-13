@@ -27,6 +27,4 @@ This project demonstrates how to set up and use `graphics.h` for graphical repre
 
 You can now use `graphics.h` for tree or graph visualization in your C++ projects.
 
-## Contact
 
-For questions or contributions, feel free to reach out!
