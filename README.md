@@ -2,6 +2,7 @@ Graphical representation Using grafics.h in VScode
 
 open .vscode and create file tasks.json
 ->paste tasks.json
+(you can find the tasks.json in the .vscode folder)
 
 open code runner extension files
 ->click extension settings
