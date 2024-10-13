@@ -40,8 +40,9 @@ This project demonstrates how to set up and use `graphics.h` for graphical repre
             "detail": "compiler: C:\\MinGW\\bin\\g++.exe"
         }
     ]
-}
-    ```
+    }
+
+```
     
 3. **Install Required Extensions:**
    - Ensure you have both the **Code Runner** and **Exe Runner** extensions installed in VS Code.
